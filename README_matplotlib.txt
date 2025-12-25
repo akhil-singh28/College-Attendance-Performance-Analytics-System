@@ -1,10 +1,10 @@
 
-College Attendance & Performance Analytics System
+College Attendance & Performance Analytics System (Matplotlib)
 
 Project Description:
 This project analyzes college student attendance and academic performance.
-It helps identify weak students, top performers, and shows the relationship
-between attendance and marks using data analytics and visualization.
+It identifies weak and top-performing students, calculates attendance percentages,
+and shows relationships between attendance and marks using Matplotlib visualizations.
 
 Technologies Used:
 - Python
@@ -19,8 +19,8 @@ DATA/
  - attendance.csv
  - marks.csv
 main.py
-README.txt
-report.docx
+README_matplotlib.txt
+report_matplotlib.docx
 
 How to Run:
 1. Install required libraries:
@@ -29,4 +29,4 @@ How to Run:
    python main.py
 
 Author:
-AKHIL PRATAP SINGH
+BCA 4th Semester Student

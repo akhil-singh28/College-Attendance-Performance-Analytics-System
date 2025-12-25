@@ -15,11 +15,7 @@ print(attendance)
 print("\nMARKS DATA")
 print(marks)
 
-
-# ===============================
-# STEP 7: Attendance Percentage
-# ===============================
-
+# Attendance Percentage
 # Calculate attendance percentage
 attendance['attendance_percent'] = (
     attendance['attended_classes'] / attendance['total_classes']
@@ -32,10 +28,7 @@ defaulters = attendance[attendance['attendance_percent'] < 75]
 print("\nTop 10 Students with Low Attendance (<75%)")
 print(defaulters.head(10))
 
-# ===============================
-# STEP 8: Marks Analysis
-# ===============================
-
+# Marks Analysis
 # Weak students (marks < 40)
 weak_students = marks[marks['marks'] < 40]
 
@@ -48,10 +41,8 @@ top_students = marks[marks['marks'] >= 75]
 print("\nTop 10 Top-Performing Students (Marks >= 75)")
 print(top_students.head(10))
 
-# ===============================
-# STEP 9: Attendance vs Marks
-# ===============================
 
+#Attendance vs Marks
 # Merge attendance and marks data
 attendance_marks = pd.merge(
     attendance,
