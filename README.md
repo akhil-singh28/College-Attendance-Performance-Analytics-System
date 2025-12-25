@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>College Attendance & Performance Analytics System</title>
 </head>
 <body>
 
