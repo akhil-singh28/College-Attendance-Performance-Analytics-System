@@ -1,0 +1,1001 @@
+student_id,subject,total_classes,attended_classes
+101,Data Structures,45,23
+101,DBMS,40,29
+101,Operating Systems,50,30
+101,Computer Networks,42,24
+101,Web Development,38,34
+102,Data Structures,45,31
+102,DBMS,40,25
+102,Operating Systems,50,26
+102,Computer Networks,42,25
+102,Web Development,38,38
+103,Data Structures,45,38
+103,DBMS,40,33
+103,Operating Systems,50,36
+103,Computer Networks,42,29
+103,Web Development,38,30
+104,Data Structures,45,35
+104,DBMS,40,40
+104,Operating Systems,50,26
+104,Computer Networks,42,31
+104,Web Development,38,28
+105,Data Structures,45,31
+105,DBMS,40,34
+105,Operating Systems,50,38
+105,Computer Networks,42,42
+105,Web Development,38,28
+106,Data Structures,45,33
+106,DBMS,40,37
+106,Operating Systems,50,39
+106,Computer Networks,42,26
+106,Web Development,38,22
+107,Data Structures,45,39
+107,DBMS,40,35
+107,Operating Systems,50,49
+107,Computer Networks,42,37
+107,Web Development,38,31
+108,Data Structures,45,37
+108,DBMS,40,28
+108,Operating Systems,50,29
+108,Computer Networks,42,28
+108,Web Development,38,22
+109,Data Structures,45,37
+109,DBMS,40,23
+109,Operating Systems,50,30
+109,Computer Networks,42,41
+109,Web Development,38,22
+110,Data Structures,45,33
+110,DBMS,40,31
+110,Operating Systems,50,46
+110,Computer Networks,42,34
+110,Web Development,38,21
+111,Data Structures,45,27
+111,DBMS,40,21
+111,Operating Systems,50,29
+111,Computer Networks,42,42
+111,Web Development,38,27
+112,Data Structures,45,41
+112,DBMS,40,34
+112,Operating Systems,50,49
+112,Computer Networks,42,23
+112,Web Development,38,24
+113,Data Structures,45,34
+113,DBMS,40,32
+113,Operating Systems,50,28
+113,Computer Networks,42,27
+113,Web Development,38,33
+114,Data Structures,45,43
+114,DBMS,40,28
+114,Operating Systems,50,49
+114,Computer Networks,42,23
+114,Web Development,38,26
+115,Data Structures,45,28
+115,DBMS,40,35
+115,Operating Systems,50,42
+115,Computer Networks,42,39
+115,Web Development,38,33
+116,Data Structures,45,28
+116,DBMS,40,34
+116,Operating Systems,50,30
+116,Computer Networks,42,37
+116,Web Development,38,21
+117,Data Structures,45,22
+117,DBMS,40,30
+117,Operating Systems,50,42
+117,Computer Networks,42,25
+117,Web Development,38,20
+118,Data Structures,45,25
+118,DBMS,40,36
+118,Operating Systems,50,40
+118,Computer Networks,42,30
+118,Web Development,38,19
+119,Data Structures,45,39
+119,DBMS,40,22
+119,Operating Systems,50,42
+119,Computer Networks,42,40
+119,Web Development,38,24
+120,Data Structures,45,42
+120,DBMS,40,21
+120,Operating Systems,50,39
+120,Computer Networks,42,26
+120,Web Development,38,22
+121,Data Structures,45,33
+121,DBMS,40,33
+121,Operating Systems,50,40
+121,Computer Networks,42,36
+121,Web Development,38,37
+122,Data Structures,45,25
+122,DBMS,40,31
+122,Operating Systems,50,44
+122,Computer Networks,42,25
+122,Web Development,38,37
+123,Data Structures,45,33
+123,DBMS,40,26
+123,Operating Systems,50,46
+123,Computer Networks,42,38
+123,Web Development,38,30
+124,Data Structures,45,32
+124,DBMS,40,35
+124,Operating Systems,50,46
+124,Computer Networks,42,36
+124,Web Development,38,32
+125,Data Structures,45,26
+125,DBMS,40,22
+125,Operating Systems,50,29
+125,Computer Networks,42,38
+125,Web Development,38,25
+126,Data Structures,45,33
+126,DBMS,40,36
+126,Operating Systems,50,31
+126,Computer Networks,42,31
+126,Web Development,38,29
+127,Data Structures,45,22
+127,DBMS,40,33
+127,Operating Systems,50,42
+127,Computer Networks,42,26
+127,Web Development,38,31
+128,Data Structures,45,36
+128,DBMS,40,27
+128,Operating Systems,50,38
+128,Computer Networks,42,27
+128,Web Development,38,31
+129,Data Structures,45,41
+129,DBMS,40,35
+129,Operating Systems,50,49
+129,Computer Networks,42,41
+129,Web Development,38,32
+130,Data Structures,45,24
+130,DBMS,40,39
+130,Operating Systems,50,38
+130,Computer Networks,42,39
+130,Web Development,38,34
+131,Data Structures,45,24
+131,DBMS,40,39
+131,Operating Systems,50,41
+131,Computer Networks,42,27
+131,Web Development,38,34
+132,Data Structures,45,33
+132,DBMS,40,34
+132,Operating Systems,50,42
+132,Computer Networks,42,30
+132,Web Development,38,19
+133,Data Structures,45,34
+133,DBMS,40,25
+133,Operating Systems,50,43
+133,Computer Networks,42,38
+133,Web Development,38,21
+134,Data Structures,45,23
+134,DBMS,40,37
+134,Operating Systems,50,28
+134,Computer Networks,42,30
+134,Web Development,38,30
+135,Data Structures,45,27
+135,DBMS,40,37
+135,Operating Systems,50,44
+135,Computer Networks,42,41
+135,Web Development,38,29
+136,Data Structures,45,29
+136,DBMS,40,31
+136,Operating Systems,50,31
+136,Computer Networks,42,21
+136,Web Development,38,20
+137,Data Structures,45,42
+137,DBMS,40,27
+137,Operating Systems,50,31
+137,Computer Networks,42,34
+137,Web Development,38,28
+138,Data Structures,45,32
+138,DBMS,40,22
+138,Operating Systems,50,39
+138,Computer Networks,42,24
+138,Web Development,38,34
+139,Data Structures,45,43
+139,DBMS,40,35
+139,Operating Systems,50,50
+139,Computer Networks,42,36
+139,Web Development,38,26
+140,Data Structures,45,28
+140,DBMS,40,40
+140,Operating Systems,50,40
+140,Computer Networks,42,34
+140,Web Development,38,29
+141,Data Structures,45,36
+141,DBMS,40,29
+141,Operating Systems,50,35
+141,Computer Networks,42,34
+141,Web Development,38,26
+142,Data Structures,45,34
+142,DBMS,40,31
+142,Operating Systems,50,41
+142,Computer Networks,42,35
+142,Web Development,38,36
+143,Data Structures,45,38
+143,DBMS,40,22
+143,Operating Systems,50,30
+143,Computer Networks,42,31
+143,Web Development,38,33
+144,Data Structures,45,27
+144,DBMS,40,27
+144,Operating Systems,50,36
+144,Computer Networks,42,39
+144,Web Development,38,20
+145,Data Structures,45,34
+145,DBMS,40,25
+145,Operating Systems,50,25
+145,Computer Networks,42,31
+145,Web Development,38,30
+146,Data Structures,45,42
+146,DBMS,40,22
+146,Operating Systems,50,38
+146,Computer Networks,42,26
+146,Web Development,38,24
+147,Data Structures,45,38
+147,DBMS,40,33
+147,Operating Systems,50,45
+147,Computer Networks,42,40
+147,Web Development,38,30
+148,Data Structures,45,45
+148,DBMS,40,37
+148,Operating Systems,50,35
+148,Computer Networks,42,27
+148,Web Development,38,21
+149,Data Structures,45,26
+149,DBMS,40,29
+149,Operating Systems,50,49
+149,Computer Networks,42,40
+149,Web Development,38,31
+150,Data Structures,45,42
+150,DBMS,40,20
+150,Operating Systems,50,45
+150,Computer Networks,42,37
+150,Web Development,38,31
+151,Data Structures,45,31
+151,DBMS,40,32
+151,Operating Systems,50,26
+151,Computer Networks,42,29
+151,Web Development,38,20
+152,Data Structures,45,22
+152,DBMS,40,30
+152,Operating Systems,50,44
+152,Computer Networks,42,30
+152,Web Development,38,22
+153,Data Structures,45,37
+153,DBMS,40,23
+153,Operating Systems,50,26
+153,Computer Networks,42,35
+153,Web Development,38,33
+154,Data Structures,45,25
+154,DBMS,40,40
+154,Operating Systems,50,50
+154,Computer Networks,42,41
+154,Web Development,38,26
+155,Data Structures,45,24
+155,DBMS,40,36
+155,Operating Systems,50,42
+155,Computer Networks,42,39
+155,Web Development,38,36
+156,Data Structures,45,32
+156,DBMS,40,32
+156,Operating Systems,50,47
+156,Computer Networks,42,23
+156,Web Development,38,29
+157,Data Structures,45,33
+157,DBMS,40,38
+157,Operating Systems,50,40
+157,Computer Networks,42,27
+157,Web Development,38,25
+158,Data Structures,45,37
+158,DBMS,40,40
+158,Operating Systems,50,26
+158,Computer Networks,42,42
+158,Web Development,38,37
+159,Data Structures,45,26
+159,DBMS,40,23
+159,Operating Systems,50,36
+159,Computer Networks,42,42
+159,Web Development,38,20
+160,Data Structures,45,27
+160,DBMS,40,30
+160,Operating Systems,50,25
+160,Computer Networks,42,21
+160,Web Development,38,38
+161,Data Structures,45,41
+161,DBMS,40,21
+161,Operating Systems,50,32
+161,Computer Networks,42,30
+161,Web Development,38,31
+162,Data Structures,45,26
+162,DBMS,40,34
+162,Operating Systems,50,50
+162,Computer Networks,42,40
+162,Web Development,38,20
+163,Data Structures,45,29
+163,DBMS,40,21
+163,Operating Systems,50,37
+163,Computer Networks,42,27
+163,Web Development,38,24
+164,Data Structures,45,33
+164,DBMS,40,25
+164,Operating Systems,50,43
+164,Computer Networks,42,23
+164,Web Development,38,29
+165,Data Structures,45,29
+165,DBMS,40,28
+165,Operating Systems,50,25
+165,Computer Networks,42,35
+165,Web Development,38,33
+166,Data Structures,45,35
+166,DBMS,40,26
+166,Operating Systems,50,26
+166,Computer Networks,42,41
+166,Web Development,38,21
+167,Data Structures,45,34
+167,DBMS,40,25
+167,Operating Systems,50,29
+167,Computer Networks,42,36
+167,Web Development,38,36
+168,Data Structures,45,28
+168,DBMS,40,21
+168,Operating Systems,50,31
+168,Computer Networks,42,22
+168,Web Development,38,32
+169,Data Structures,45,41
+169,DBMS,40,26
+169,Operating Systems,50,33
+169,Computer Networks,42,24
+169,Web Development,38,36
+170,Data Structures,45,31
+170,DBMS,40,31
+170,Operating Systems,50,47
+170,Computer Networks,42,31
+170,Web Development,38,36
+171,Data Structures,45,41
+171,DBMS,40,33
+171,Operating Systems,50,33
+171,Computer Networks,42,41
+171,Web Development,38,31
+172,Data Structures,45,31
+172,DBMS,40,23
+172,Operating Systems,50,26
+172,Computer Networks,42,21
+172,Web Development,38,26
+173,Data Structures,45,29
+173,DBMS,40,38
+173,Operating Systems,50,50
+173,Computer Networks,42,34
+173,Web Development,38,38
+174,Data Structures,45,35
+174,DBMS,40,26
+174,Operating Systems,50,26
+174,Computer Networks,42,30
+174,Web Development,38,37
+175,Data Structures,45,37
+175,DBMS,40,40
+175,Operating Systems,50,37
+175,Computer Networks,42,38
+175,Web Development,38,34
+176,Data Structures,45,39
+176,DBMS,40,26
+176,Operating Systems,50,36
+176,Computer Networks,42,22
+176,Web Development,38,36
+177,Data Structures,45,23
+177,DBMS,40,20
+177,Operating Systems,50,33
+177,Computer Networks,42,21
+177,Web Development,38,30
+178,Data Structures,45,44
+178,DBMS,40,33
+178,Operating Systems,50,45
+178,Computer Networks,42,39
+178,Web Development,38,25
+179,Data Structures,45,25
+179,DBMS,40,38
+179,Operating Systems,50,42
+179,Computer Networks,42,37
+179,Web Development,38,38
+180,Data Structures,45,38
+180,DBMS,40,32
+180,Operating Systems,50,39
+180,Computer Networks,42,32
+180,Web Development,38,29
+181,Data Structures,45,45
+181,DBMS,40,20
+181,Operating Systems,50,35
+181,Computer Networks,42,31
+181,Web Development,38,24
+182,Data Structures,45,42
+182,DBMS,40,22
+182,Operating Systems,50,27
+182,Computer Networks,42,34
+182,Web Development,38,31
+183,Data Structures,45,42
+183,DBMS,40,22
+183,Operating Systems,50,27
+183,Computer Networks,42,23
+183,Web Development,38,26
+184,Data Structures,45,42
+184,DBMS,40,29
+184,Operating Systems,50,37
+184,Computer Networks,42,32
+184,Web Development,38,38
+185,Data Structures,45,43
+185,DBMS,40,31
+185,Operating Systems,50,42
+185,Computer Networks,42,33
+185,Web Development,38,30
+186,Data Structures,45,45
+186,DBMS,40,32
+186,Operating Systems,50,46
+186,Computer Networks,42,22
+186,Web Development,38,25
+187,Data Structures,45,29
+187,DBMS,40,22
+187,Operating Systems,50,33
+187,Computer Networks,42,30
+187,Web Development,38,21
+188,Data Structures,45,34
+188,DBMS,40,27
+188,Operating Systems,50,46
+188,Computer Networks,42,34
+188,Web Development,38,36
+189,Data Structures,45,41
+189,DBMS,40,31
+189,Operating Systems,50,41
+189,Computer Networks,42,23
+189,Web Development,38,19
+190,Data Structures,45,41
+190,DBMS,40,26
+190,Operating Systems,50,45
+190,Computer Networks,42,35
+190,Web Development,38,29
+191,Data Structures,45,32
+191,DBMS,40,39
+191,Operating Systems,50,49
+191,Computer Networks,42,42
+191,Web Development,38,38
+192,Data Structures,45,38
+192,DBMS,40,28
+192,Operating Systems,50,29
+192,Computer Networks,42,35
+192,Web Development,38,21
+193,Data Structures,45,36
+193,DBMS,40,38
+193,Operating Systems,50,45
+193,Computer Networks,42,34
+193,Web Development,38,33
+194,Data Structures,45,36
+194,DBMS,40,40
+194,Operating Systems,50,26
+194,Computer Networks,42,30
+194,Web Development,38,29
+195,Data Structures,45,30
+195,DBMS,40,36
+195,Operating Systems,50,49
+195,Computer Networks,42,22
+195,Web Development,38,28
+196,Data Structures,45,38
+196,DBMS,40,40
+196,Operating Systems,50,44
+196,Computer Networks,42,41
+196,Web Development,38,23
+197,Data Structures,45,22
+197,DBMS,40,28
+197,Operating Systems,50,34
+197,Computer Networks,42,42
+197,Web Development,38,38
+198,Data Structures,45,36
+198,DBMS,40,27
+198,Operating Systems,50,25
+198,Computer Networks,42,30
+198,Web Development,38,25
+199,Data Structures,45,30
+199,DBMS,40,37
+199,Operating Systems,50,31
+199,Computer Networks,42,33
+199,Web Development,38,25
+200,Data Structures,45,24
+200,DBMS,40,25
+200,Operating Systems,50,50
+200,Computer Networks,42,36
+200,Web Development,38,36
+201,Data Structures,45,35
+201,DBMS,40,35
+201,Operating Systems,50,32
+201,Computer Networks,42,42
+201,Web Development,38,30
+202,Data Structures,45,24
+202,DBMS,40,20
+202,Operating Systems,50,31
+202,Computer Networks,42,34
+202,Web Development,38,25
+203,Data Structures,45,27
+203,DBMS,40,24
+203,Operating Systems,50,36
+203,Computer Networks,42,38
+203,Web Development,38,32
+204,Data Structures,45,40
+204,DBMS,40,29
+204,Operating Systems,50,44
+204,Computer Networks,42,40
+204,Web Development,38,28
+205,Data Structures,45,26
+205,DBMS,40,21
+205,Operating Systems,50,41
+205,Computer Networks,42,21
+205,Web Development,38,34
+206,Data Structures,45,43
+206,DBMS,40,36
+206,Operating Systems,50,28
+206,Computer Networks,42,29
+206,Web Development,38,30
+207,Data Structures,45,26
+207,DBMS,40,28
+207,Operating Systems,50,49
+207,Computer Networks,42,25
+207,Web Development,38,28
+208,Data Structures,45,39
+208,DBMS,40,33
+208,Operating Systems,50,31
+208,Computer Networks,42,42
+208,Web Development,38,23
+209,Data Structures,45,30
+209,DBMS,40,24
+209,Operating Systems,50,32
+209,Computer Networks,42,26
+209,Web Development,38,38
+210,Data Structures,45,37
+210,DBMS,40,21
+210,Operating Systems,50,50
+210,Computer Networks,42,23
+210,Web Development,38,32
+211,Data Structures,45,39
+211,DBMS,40,25
+211,Operating Systems,50,31
+211,Computer Networks,42,22
+211,Web Development,38,22
+212,Data Structures,45,23
+212,DBMS,40,20
+212,Operating Systems,50,41
+212,Computer Networks,42,30
+212,Web Development,38,34
+213,Data Structures,45,41
+213,DBMS,40,40
+213,Operating Systems,50,29
+213,Computer Networks,42,25
+213,Web Development,38,25
+214,Data Structures,45,44
+214,DBMS,40,34
+214,Operating Systems,50,32
+214,Computer Networks,42,38
+214,Web Development,38,37
+215,Data Structures,45,32
+215,DBMS,40,26
+215,Operating Systems,50,35
+215,Computer Networks,42,37
+215,Web Development,38,37
+216,Data Structures,45,30
+216,DBMS,40,39
+216,Operating Systems,50,42
+216,Computer Networks,42,39
+216,Web Development,38,23
+217,Data Structures,45,25
+217,DBMS,40,35
+217,Operating Systems,50,28
+217,Computer Networks,42,37
+217,Web Development,38,37
+218,Data Structures,45,25
+218,DBMS,40,28
+218,Operating Systems,50,46
+218,Computer Networks,42,26
+218,Web Development,38,33
+219,Data Structures,45,43
+219,DBMS,40,23
+219,Operating Systems,50,46
+219,Computer Networks,42,36
+219,Web Development,38,26
+220,Data Structures,45,26
+220,DBMS,40,28
+220,Operating Systems,50,41
+220,Computer Networks,42,37
+220,Web Development,38,29
+221,Data Structures,45,30
+221,DBMS,40,38
+221,Operating Systems,50,37
+221,Computer Networks,42,40
+221,Web Development,38,26
+222,Data Structures,45,36
+222,DBMS,40,24
+222,Operating Systems,50,28
+222,Computer Networks,42,24
+222,Web Development,38,30
+223,Data Structures,45,35
+223,DBMS,40,38
+223,Operating Systems,50,36
+223,Computer Networks,42,30
+223,Web Development,38,36
+224,Data Structures,45,33
+224,DBMS,40,31
+224,Operating Systems,50,30
+224,Computer Networks,42,22
+224,Web Development,38,32
+225,Data Structures,45,41
+225,DBMS,40,35
+225,Operating Systems,50,49
+225,Computer Networks,42,38
+225,Web Development,38,38
+226,Data Structures,45,27
+226,DBMS,40,39
+226,Operating Systems,50,28
+226,Computer Networks,42,39
+226,Web Development,38,21
+227,Data Structures,45,24
+227,DBMS,40,35
+227,Operating Systems,50,42
+227,Computer Networks,42,34
+227,Web Development,38,25
+228,Data Structures,45,44
+228,DBMS,40,21
+228,Operating Systems,50,42
+228,Computer Networks,42,33
+228,Web Development,38,23
+229,Data Structures,45,42
+229,DBMS,40,39
+229,Operating Systems,50,37
+229,Computer Networks,42,32
+229,Web Development,38,30
+230,Data Structures,45,24
+230,DBMS,40,31
+230,Operating Systems,50,47
+230,Computer Networks,42,35
+230,Web Development,38,27
+231,Data Structures,45,41
+231,DBMS,40,35
+231,Operating Systems,50,44
+231,Computer Networks,42,28
+231,Web Development,38,19
+232,Data Structures,45,28
+232,DBMS,40,27
+232,Operating Systems,50,42
+232,Computer Networks,42,33
+232,Web Development,38,35
+233,Data Structures,45,27
+233,DBMS,40,22
+233,Operating Systems,50,37
+233,Computer Networks,42,37
+233,Web Development,38,30
+234,Data Structures,45,37
+234,DBMS,40,36
+234,Operating Systems,50,38
+234,Computer Networks,42,41
+234,Web Development,38,29
+235,Data Structures,45,30
+235,DBMS,40,27
+235,Operating Systems,50,40
+235,Computer Networks,42,30
+235,Web Development,38,34
+236,Data Structures,45,28
+236,DBMS,40,36
+236,Operating Systems,50,43
+236,Computer Networks,42,34
+236,Web Development,38,38
+237,Data Structures,45,45
+237,DBMS,40,28
+237,Operating Systems,50,27
+237,Computer Networks,42,27
+237,Web Development,38,30
+238,Data Structures,45,25
+238,DBMS,40,31
+238,Operating Systems,50,33
+238,Computer Networks,42,27
+238,Web Development,38,21
+239,Data Structures,45,23
+239,DBMS,40,39
+239,Operating Systems,50,30
+239,Computer Networks,42,26
+239,Web Development,38,30
+240,Data Structures,45,24
+240,DBMS,40,27
+240,Operating Systems,50,40
+240,Computer Networks,42,23
+240,Web Development,38,38
+241,Data Structures,45,41
+241,DBMS,40,27
+241,Operating Systems,50,37
+241,Computer Networks,42,27
+241,Web Development,38,33
+242,Data Structures,45,45
+242,DBMS,40,23
+242,Operating Systems,50,34
+242,Computer Networks,42,39
+242,Web Development,38,32
+243,Data Structures,45,44
+243,DBMS,40,20
+243,Operating Systems,50,26
+243,Computer Networks,42,31
+243,Web Development,38,25
+244,Data Structures,45,38
+244,DBMS,40,23
+244,Operating Systems,50,48
+244,Computer Networks,42,35
+244,Web Development,38,32
+245,Data Structures,45,41
+245,DBMS,40,38
+245,Operating Systems,50,47
+245,Computer Networks,42,39
+245,Web Development,38,26
+246,Data Structures,45,41
+246,DBMS,40,27
+246,Operating Systems,50,50
+246,Computer Networks,42,23
+246,Web Development,38,37
+247,Data Structures,45,22
+247,DBMS,40,32
+247,Operating Systems,50,43
+247,Computer Networks,42,41
+247,Web Development,38,31
+248,Data Structures,45,30
+248,DBMS,40,39
+248,Operating Systems,50,48
+248,Computer Networks,42,26
+248,Web Development,38,36
+249,Data Structures,45,30
+249,DBMS,40,21
+249,Operating Systems,50,45
+249,Computer Networks,42,29
+249,Web Development,38,37
+250,Data Structures,45,42
+250,DBMS,40,24
+250,Operating Systems,50,46
+250,Computer Networks,42,29
+250,Web Development,38,27
+251,Data Structures,45,26
+251,DBMS,40,20
+251,Operating Systems,50,34
+251,Computer Networks,42,42
+251,Web Development,38,35
+252,Data Structures,45,32
+252,DBMS,40,20
+252,Operating Systems,50,31
+252,Computer Networks,42,26
+252,Web Development,38,31
+253,Data Structures,45,31
+253,DBMS,40,28
+253,Operating Systems,50,33
+253,Computer Networks,42,42
+253,Web Development,38,27
+254,Data Structures,45,30
+254,DBMS,40,38
+254,Operating Systems,50,35
+254,Computer Networks,42,23
+254,Web Development,38,28
+255,Data Structures,45,41
+255,DBMS,40,31
+255,Operating Systems,50,42
+255,Computer Networks,42,33
+255,Web Development,38,22
+256,Data Structures,45,29
+256,DBMS,40,31
+256,Operating Systems,50,37
+256,Computer Networks,42,21
+256,Web Development,38,34
+257,Data Structures,45,27
+257,DBMS,40,36
+257,Operating Systems,50,43
+257,Computer Networks,42,41
+257,Web Development,38,34
+258,Data Structures,45,27
+258,DBMS,40,28
+258,Operating Systems,50,44
+258,Computer Networks,42,25
+258,Web Development,38,36
+259,Data Structures,45,28
+259,DBMS,40,38
+259,Operating Systems,50,42
+259,Computer Networks,42,40
+259,Web Development,38,37
+260,Data Structures,45,37
+260,DBMS,40,25
+260,Operating Systems,50,28
+260,Computer Networks,42,22
+260,Web Development,38,36
+261,Data Structures,45,45
+261,DBMS,40,28
+261,Operating Systems,50,34
+261,Computer Networks,42,32
+261,Web Development,38,38
+262,Data Structures,45,24
+262,DBMS,40,24
+262,Operating Systems,50,37
+262,Computer Networks,42,42
+262,Web Development,38,31
+263,Data Structures,45,28
+263,DBMS,40,34
+263,Operating Systems,50,50
+263,Computer Networks,42,21
+263,Web Development,38,24
+264,Data Structures,45,44
+264,DBMS,40,39
+264,Operating Systems,50,43
+264,Computer Networks,42,24
+264,Web Development,38,28
+265,Data Structures,45,37
+265,DBMS,40,32
+265,Operating Systems,50,31
+265,Computer Networks,42,24
+265,Web Development,38,35
+266,Data Structures,45,42
+266,DBMS,40,39
+266,Operating Systems,50,30
+266,Computer Networks,42,34
+266,Web Development,38,35
+267,Data Structures,45,25
+267,DBMS,40,35
+267,Operating Systems,50,38
+267,Computer Networks,42,30
+267,Web Development,38,26
+268,Data Structures,45,22
+268,DBMS,40,25
+268,Operating Systems,50,25
+268,Computer Networks,42,29
+268,Web Development,38,23
+269,Data Structures,45,31
+269,DBMS,40,28
+269,Operating Systems,50,36
+269,Computer Networks,42,26
+269,Web Development,38,19
+270,Data Structures,45,27
+270,DBMS,40,20
+270,Operating Systems,50,25
+270,Computer Networks,42,28
+270,Web Development,38,29
+271,Data Structures,45,28
+271,DBMS,40,23
+271,Operating Systems,50,39
+271,Computer Networks,42,26
+271,Web Development,38,30
+272,Data Structures,45,27
+272,DBMS,40,39
+272,Operating Systems,50,29
+272,Computer Networks,42,26
+272,Web Development,38,25
+273,Data Structures,45,45
+273,DBMS,40,21
+273,Operating Systems,50,34
+273,Computer Networks,42,27
+273,Web Development,38,36
+274,Data Structures,45,43
+274,DBMS,40,32
+274,Operating Systems,50,36
+274,Computer Networks,42,35
+274,Web Development,38,25
+275,Data Structures,45,39
+275,DBMS,40,39
+275,Operating Systems,50,36
+275,Computer Networks,42,30
+275,Web Development,38,20
+276,Data Structures,45,39
+276,DBMS,40,25
+276,Operating Systems,50,41
+276,Computer Networks,42,38
+276,Web Development,38,31
+277,Data Structures,45,41
+277,DBMS,40,20
+277,Operating Systems,50,28
+277,Computer Networks,42,34
+277,Web Development,38,32
+278,Data Structures,45,40
+278,DBMS,40,39
+278,Operating Systems,50,38
+278,Computer Networks,42,37
+278,Web Development,38,20
+279,Data Structures,45,43
+279,DBMS,40,40
+279,Operating Systems,50,25
+279,Computer Networks,42,32
+279,Web Development,38,22
+280,Data Structures,45,28
+280,DBMS,40,35
+280,Operating Systems,50,29
+280,Computer Networks,42,23
+280,Web Development,38,33
+281,Data Structures,45,43
+281,DBMS,40,38
+281,Operating Systems,50,50
+281,Computer Networks,42,21
+281,Web Development,38,26
+282,Data Structures,45,43
+282,DBMS,40,23
+282,Operating Systems,50,31
+282,Computer Networks,42,36
+282,Web Development,38,29
+283,Data Structures,45,27
+283,DBMS,40,29
+283,Operating Systems,50,44
+283,Computer Networks,42,29
+283,Web Development,38,31
+284,Data Structures,45,25
+284,DBMS,40,35
+284,Operating Systems,50,29
+284,Computer Networks,42,36
+284,Web Development,38,38
+285,Data Structures,45,23
+285,DBMS,40,21
+285,Operating Systems,50,30
+285,Computer Networks,42,23
+285,Web Development,38,30
+286,Data Structures,45,36
+286,DBMS,40,27
+286,Operating Systems,50,43
+286,Computer Networks,42,37
+286,Web Development,38,30
+287,Data Structures,45,27
+287,DBMS,40,33
+287,Operating Systems,50,50
+287,Computer Networks,42,24
+287,Web Development,38,19
+288,Data Structures,45,40
+288,DBMS,40,38
+288,Operating Systems,50,38
+288,Computer Networks,42,32
+288,Web Development,38,19
+289,Data Structures,45,45
+289,DBMS,40,24
+289,Operating Systems,50,29
+289,Computer Networks,42,25
+289,Web Development,38,37
+290,Data Structures,45,38
+290,DBMS,40,25
+290,Operating Systems,50,30
+290,Computer Networks,42,27
+290,Web Development,38,34
+291,Data Structures,45,32
+291,DBMS,40,21
+291,Operating Systems,50,33
+291,Computer Networks,42,37
+291,Web Development,38,37
+292,Data Structures,45,31
+292,DBMS,40,26
+292,Operating Systems,50,30
+292,Computer Networks,42,23
+292,Web Development,38,32
+293,Data Structures,45,39
+293,DBMS,40,27
+293,Operating Systems,50,27
+293,Computer Networks,42,36
+293,Web Development,38,38
+294,Data Structures,45,28
+294,DBMS,40,38
+294,Operating Systems,50,50
+294,Computer Networks,42,21
+294,Web Development,38,22
+295,Data Structures,45,42
+295,DBMS,40,35
+295,Operating Systems,50,41
+295,Computer Networks,42,34
+295,Web Development,38,24
+296,Data Structures,45,24
+296,DBMS,40,29
+296,Operating Systems,50,32
+296,Computer Networks,42,38
+296,Web Development,38,20
+297,Data Structures,45,37
+297,DBMS,40,31
+297,Operating Systems,50,35
+297,Computer Networks,42,32
+297,Web Development,38,25
+298,Data Structures,45,22
+298,DBMS,40,31
+298,Operating Systems,50,42
+298,Computer Networks,42,36
+298,Web Development,38,26
+299,Data Structures,45,26
+299,DBMS,40,35
+299,Operating Systems,50,35
+299,Computer Networks,42,36
+299,Web Development,38,25
+300,Data Structures,45,25
+300,DBMS,40,40
+300,Operating Systems,50,47
+300,Computer Networks,42,41
+300,Web Development,38,28
