@@ -1,3 +1,5 @@
+#---------------------FOR SEABORN ONLY---------------------------
+
 # College Attendance & Performance Analytics System
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -107,4 +109,4 @@ plt.xlabel("Attendance Percentage")
 plt.title("Attendance Percentage Distribution")
 plt.show()
 
-print("\n✅ Project Executed Successfully")
+print("\nProject Executed Successfully")
