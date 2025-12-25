@@ -29,4 +29,4 @@ How to Run:
    python main.py
 
 Author:
-BCA 4th Semester Student
+AKHIL PRATAP SINGH
