@@ -31,4 +31,4 @@ How to Run:
    python seabourn.py
 
 Author:
-BCA 4th Semester Student
+AKHIL PRATAP SINGH
